@@ -1,0 +1,179 @@
+@charset "utf-8";
+/**[]**/
+*{
+    margin: 0;
+    padding: 0;
+}
+/**[]**/
+html{
+    font-size: 100%;
+}
+/**[]**/
+body{
+    font-size: 1em;
+}
+/**[]**/
+a{
+    display: block;
+    text-decoration: none;
+}
+/**[]**/
+#fw-container,
+#header,
+#fw-feed-title,
+#fw-feed-items-scroll-area,
+#fw-feed-items,
+.fw-feed-item
+.fw-item-[%item number%],
+.fw-feed-item-url,
+.fw-feed-item-image-module,
+.fw-feed-item-image,
+.fw-feed-item-content-module,
+.fw-feed-item-title,
+.fw-feed-item-description,
+.fw-feed-item-date,
+.fw-feed-item-link,
+.fw-branding{
+	}
+/**[]**/
+#fw-container{
+	width: 100%!important;
+	height: 40em!important;
+	max-height: 40em!important;
+}
+/**[]**/
+#header{
+}
+/**[]**/
+#fw-feed-title{
+}
+/**[]**/
+#fw-feed-items-scroll-area{
+}
+/**[]**/
+#fw-feed-items{
+}
+/**[]**/
+.fw-feed-item .fw-item-[%item number%]{
+}
+/**[]**/
+.fw-feed-item-url{
+}
+/**[]**/
+.fw-feed-item-image-module{
+	width: 100%!important;
+	height: 20em!important;
+	max-height: 20em!important;
+}
+/**[]**/
+.fw-feed-item-image{
+	width: 100%!important;
+	height: auto!important;
+	min-height: 20em!important;
+}
+/**[]**/
+.fw-feed-item-content-module{
+	width: 100%!important;
+	height: 20em!important;
+	max-height: 20em!important;
+}
+/**[]**/
+.fw-feed-item-title{
+}
+/**[]**/
+.fw-feed-item-description{
+}
+/**[]**/
+.fw-feed-item-date{
+}
+/**[]**/
+.fw-feed-item-link{
+}
+/**[]**/
+.fw-branding{
+}
+/**[]********************/
+/*==============================
+CSS (0〜1000px)
+==============================*/
+@media screen and (max-width:1000px){
+/**[]********************/
+html{font-size: 99.5%;}
+/**[]********************/
+body{font-size: 1em;}
+/**[]********************/
+}
+/*==============================
+CSS (0〜900px)
+==============================*/
+@media screen and (max-width:900px){
+/**[]********************/
+html{font-size: 99%;}
+/**[]********************/
+body{font-size: 1em;}
+/**[]********************/
+}
+/*==============================
+CSS (0〜800px)
+==============================*/
+@media screen and (max-width:800px){
+/**[]********************/
+html{font-size: 98.5%;}
+/**[]********************/
+body{font-size: 1em;}
+/**[]********************/
+div.One-Page-Inner01.Block01{
+	position: static;
+	}
+/**[]********************/
+div.One-Page-Inner01.Block01 h2.Navi-Title02{
+	display: block!important;
+	margin: 0 auto 0.5em!important;
+	padding: 0!important;
+	width: 100%!important;
+	height: auto!important;
+	overflow: hidden!important;
+	}
+/**[]********************/
+}
+/*==============================
+CSS (0〜700px)
+==============================*/
+@media screen and (max-width:700px){
+/**[]********************/
+html{font-size: 98%;}
+/**[]********************/
+body{font-size: 1em;}
+/**[]********************/
+}
+/*==============================
+CSS (0〜600px)
+==============================*/
+@media screen and (max-width:600px){
+/**[]********************/
+html{font-size: 97.5%;}
+/**[]********************/
+body{font-size: 1em;}
+/**[]********************/
+}
+/*==============================
+CSS (0〜500px)
+==============================*/
+@media screen and (max-width:500px){
+/**[]********************/
+html{font-size: 97%;}
+/**[]********************/
+body{font-size: 1em;}
+/**[]********************/
+}
+/*==============================
+CSS (0〜400px)
+==============================*/
+@media screen and (max-width:400px){
+/**[]********************/
+html{font-size: 96.5%;}
+/**[]********************/
+body{font-size: 1em;}
+/**[]********************/
+}
+/**[]********************/
